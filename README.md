@@ -1,5 +1,3 @@
-# README: Load Balancer en Rust
-
 ## Description
 
 Ce projet implémente un load balancer en Rust avec les fonctionnalités suivantes :
