@@ -1,0 +1,1 @@
+Ici Le load_balancer check si il a accès a ce dossier, si il a accès alors le "Health check" est fonctionnel et donc pas d'erreur, (il check ce dossier tous les minutes)
