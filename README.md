@@ -9,8 +9,6 @@ Ce projet implémente un load balancer en Rust avec les fonctionnalités suivant
 ## Prérequis
 
 - Rust et Cargo installés
-- La crate `threadpool` pour la gestion des threads
-- La crate `reqwest` pour les requêtes HTTP
 - Installation d'OpenSSL et des packages de développement
 
 ### Installation d'OpenSSL
